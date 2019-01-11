@@ -1,0 +1,12 @@
+body {
+  font-family: 'Raleway', sans-serif;
+
+  background-color: #f7f7f7;
+  background-image: url("cubes.png");
+  background-repeat: repeat;
+
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 10px;
+  word-wrap: break-word;
+}
