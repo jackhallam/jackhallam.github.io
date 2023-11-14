@@ -10,3 +10,8 @@ body {
   padding: 0 10px;
   word-wrap: break-word;
 }
+
+.profile_img {
+  float: left;
+  margin-right: 20px;
+}
